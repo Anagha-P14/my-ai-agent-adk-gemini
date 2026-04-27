@@ -1,1 +1,5 @@
 .env
+auth.json
+*.db
+__pycache__/
+.adk/
